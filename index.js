@@ -23,4 +23,4 @@ bot.on('message', message =>{
     }
 });
 
-bot.login('NzUxMTk1NjA0MTU5NTYxNzQ5.X1FjbA.EKy7arlq4O26dKaseK7IiOQZUOQ');
+bot.login('');
